@@ -1,0 +1,21 @@
+{
+  "name": "HW4-1-21",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewdherold/HW4-1-21.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewdherold/HW4-1-21/issues"
+  },
+  "homepage": "https://github.com/matthewdherold/HW4-1-21#readme"
+}
