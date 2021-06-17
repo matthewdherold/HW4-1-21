@@ -1,0 +1,32 @@
+<div>
+    <h2>{{name}}</h2>
+    <p>{{description}}</p>
+    <p>Posted by {{user.name}} // {{format_date date_created}}</p>
+    <p>
+        <span>{{hash_tag}}</span>
+    </p>
+    {{#if logged_in}}
+    <p>
+        <button id="addComment">Add a comment</button>
+        <div id="comment"></div>
+    </p>
+    {{else}}
+    <p><a href="/login">Log in</a> to leave a comment</p>
+    {{/if}}
+</div>
+{{#if comments.length}}
+<div>
+    <h3>Comments:</h3>
+    {{#each comments as |comment|}}
+    <div>
+        <div>
+            <h4>{{comment.content}} </h4>Posted by {{comment.user.name}} // {{format_date comment.date_created}}
+        </div>
+    </div>
+    {{/each}}
+</div>
+{{/if}}
+
+{{#if logged_in}}
+<script src="/js/comment.js"></script>
+{{/if}}

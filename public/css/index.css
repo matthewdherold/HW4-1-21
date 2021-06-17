@@ -1,0 +1,35 @@
+body {
+    align-content: center;
+    margin-right: 20%;
+    margin-left: 20%;
+    text-align: center;
+    background-color: lightcyan;
+}
+
+header {
+    padding: 2ch;
+    margin-bottom: 5ch;
+    background-color: lightskyblue;
+}
+
+form > * {
+    text-align: left;
+    margin-left: 42%;
+    padding: 10px;
+}
+
+#postTitle {
+    padding: 1ch;
+}
+
+#postDesc {
+    font-size: large;
+}
+
+#postTags {
+    font-size: small;
+}
+
+#postDetails {
+    font-size: small;
+}
