@@ -16,7 +16,7 @@ A deployed web app for discussing technology and coding that allows users to cre
 - [Contact](#contact)
 
 ## Screenshot
-<img src="/Demo/screenshot.png" alt="application demo">
+<img src="/demo/screenshot.png" alt="application demo">
 
 ## Installation
 Navigate to the deployed link, if you wish to modify this code you can clone the project repository, run npm i from your console, insert the schema into your mysql db and run it, then run the "npm run seed" command. You may then run "npm start" to start the application locally.
