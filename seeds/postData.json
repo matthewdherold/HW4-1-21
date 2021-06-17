@@ -1,0 +1,21 @@
+[
+    {
+      "name": "Is native code dying?",
+      "description": "Will C++ be replaced with 'easier' languages like JavaScript and Python?",
+      "hash_tag": "#C",
+      "user_id": 1
+    },
+    {
+      "name": "Where to get a job in data engineering",
+      "description": "Does anyone have recommendations for great companies that need data engineers? Asking for a friend.",
+      "hash_tag": "#dataEngineering",
+      "user_id": 2
+    },
+    {
+      "name": "Best language for coding AAA video games?",
+      "description": "I've been using C# for my game programming, but I'm becoming more curious about alternative options, does anyone have some insight?",
+      "hash_tag": "#videoGames",
+      "user_id": 3
+    }
+    
+  ]

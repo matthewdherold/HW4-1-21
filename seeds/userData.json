@@ -1,0 +1,17 @@
+[
+    {
+      "name": "Mandy",
+      "email": "bestDog@gmail.com",
+      "password": "password"
+    },
+    {
+      "name": "Matt",
+      "email": "iSuck@gmail.com",
+      "password": "password2"
+    },
+    {
+      "name": "Tristyn",
+      "email": "trissy@gmail.com",
+      "password": "password3"
+    }
+  ]
