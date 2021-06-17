@@ -2,7 +2,7 @@
 # Tech Blog
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-link to deployed application: https://matthewdherold.github.io/HW4-1-21/
+link to deployed application: https://hw4-1-21.herokuapp.com/
 
 ## Description
 A deployed web app for discussing technology and coding that allows users to create an account, make posts, and comment on posts.
